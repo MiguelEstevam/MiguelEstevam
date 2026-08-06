@@ -24,9 +24,9 @@
 
 - 🎓 Estudante de **Sistemas de Informação** na UCL
 - 🚀 Apaixonado por desenvolvimento web e sistemas
-- 🌱 Aprofundando conhecimentos em **React**, **Node.js** e **CI/CD**
+- 🌱 Aprofundando conhecimentos em **Python**, **Node.js** e **Go**
 - 🎯 Focado em evoluir e entregar projetos com qualidade
-- 📍 Brasil
+- 📍 Espírito Santo, Brasil
 
 <br>
 
