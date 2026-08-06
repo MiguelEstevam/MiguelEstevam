@@ -68,16 +68,3 @@ Pipeline de **CI/CD** em Python para comparação e avaliação de dados de clie
 `Python` `CI/CD`
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MiguelEstevam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstevam&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelEstevam&color=blue&style=flat-square&label=Visitas+ao+perfil" />
-</p>
